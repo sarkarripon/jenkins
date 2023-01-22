@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>Jenkins Practice</title>
+    <style>
+        .title {
+
+            padding: 275px;
+            text-align: center;
+            font-size: 35px;
+        }
+
+        }
+    </style>
+</head>
+<body>
+
+<div class="title">
+    <h2>Ami Jenkins</h2>
+</div>
+
+</body>
+</html>
