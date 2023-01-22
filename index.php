@@ -9,7 +9,6 @@
             font-size: 35px;
         }
 
-        }
     </style>
 </head>
 <body>
